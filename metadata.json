@@ -1,0 +1,6 @@
+
+{
+  "name": "Market Mind AI",
+  "description": "A sophisticated generative AI-powered sales intelligence platform providing real-time market analysis, lead scoring, and competitive landscape tracking.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
